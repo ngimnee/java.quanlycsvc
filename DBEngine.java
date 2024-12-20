@@ -1,4 +1,4 @@
-package QL_MuaSam;
+package QL_DanhSachTaiSan;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -47,5 +47,4 @@ public Object docFile(String fileName) throws Exception{
     fi.close();ois.close();
     return kq;
 }
-   
 }

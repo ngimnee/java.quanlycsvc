@@ -1,4 +1,4 @@
-package QL_SuaChua;
+package QL_MuaSam;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -7,9 +7,9 @@ import java.io.ObjectOutputStream;
 
 /**
  *
- * @author ASUS
+ * @author Duong
  */
-public class DBEngine  {
+public class DBEngine {
  /**
 * Serial 1 đối tượng xuống file
 * @param fileName file chỉ định
